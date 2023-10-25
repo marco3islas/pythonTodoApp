@@ -1,5 +1,5 @@
 
-FILEPATH = "./files/todos.txt"
+FILEPATH = "files/todos.txt"
 
 
 def get_todos(filepath=FILEPATH): #Default parameter

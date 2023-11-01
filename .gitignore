@@ -3,6 +3,8 @@ output.zip
 bonus.py
 bugFixsing.py
 excercise.py
+dist/
+files/
 experimentZIp/
 experiments.py
 experiments2.py
